@@ -1,0 +1,49 @@
+.container {
+  width: auto;
+  margin: 0 auto;
+}
+#myCanvas {
+  border: 5px solid #0f16db;
+}
+
+#addBlockBtn {
+  text-align: center;
+  display: inline-block;
+  margin-top: 10px;
+  background-color: #0f16db;
+  color: #fff;
+  height: 30px;
+  cursor: pointer;
+  margin-left: 5px;
+
+}
+
+#colorPicker {
+  display: inline-block;
+  margin-top: 10px;
+  width: 50px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.info {
+  text-align: center;
+  display: inline-block;
+  margin: 0 auto;
+  margin-left: 8%;
+}
+
+.info p {
+  color: red;
+  font-weight: bold;
+}
+
+.info h5 {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.info a {
+  text-decoration: none;
+  cursor: pointer;
+}
